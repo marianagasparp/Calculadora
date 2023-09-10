@@ -1,0 +1,15 @@
+/Users/marianagaspar/Documents/GitHub/Calculadora/Calculadora/bin/Debug/net5.0/Calculadora
+/Users/marianagaspar/Documents/GitHub/Calculadora/Calculadora/bin/Debug/net5.0/Calculadora.deps.json
+/Users/marianagaspar/Documents/GitHub/Calculadora/Calculadora/bin/Debug/net5.0/Calculadora.runtimeconfig.json
+/Users/marianagaspar/Documents/GitHub/Calculadora/Calculadora/bin/Debug/net5.0/Calculadora.runtimeconfig.dev.json
+/Users/marianagaspar/Documents/GitHub/Calculadora/Calculadora/bin/Debug/net5.0/Calculadora.dll
+/Users/marianagaspar/Documents/GitHub/Calculadora/Calculadora/bin/Debug/net5.0/Calculadora.pdb
+/Users/marianagaspar/Documents/GitHub/Calculadora/Calculadora/obj/Debug/net5.0/Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marianagaspar/Documents/GitHub/Calculadora/Calculadora/obj/Debug/net5.0/Calculadora.AssemblyInfoInputs.cache
+/Users/marianagaspar/Documents/GitHub/Calculadora/Calculadora/obj/Debug/net5.0/Calculadora.AssemblyInfo.cs
+/Users/marianagaspar/Documents/GitHub/Calculadora/Calculadora/obj/Debug/net5.0/Calculadora.csproj.CoreCompileInputs.cache
+/Users/marianagaspar/Documents/GitHub/Calculadora/Calculadora/obj/Debug/net5.0/Calculadora.dll
+/Users/marianagaspar/Documents/GitHub/Calculadora/Calculadora/obj/Debug/net5.0/refint/Calculadora.dll
+/Users/marianagaspar/Documents/GitHub/Calculadora/Calculadora/obj/Debug/net5.0/Calculadora.pdb
+/Users/marianagaspar/Documents/GitHub/Calculadora/Calculadora/obj/Debug/net5.0/Calculadora.genruntimeconfig.cache
+/Users/marianagaspar/Documents/GitHub/Calculadora/Calculadora/obj/Debug/net5.0/ref/Calculadora.dll
